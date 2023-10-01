@@ -1,0 +1,14 @@
+:root {
+  --background: #fff;
+  --text-color: #060b26;
+  --headers: #060b26;
+  --back-movie: #fff;
+}
+
+/* Dark theme variables */
+.dark-theme {
+  --background: #060b26;
+  --text-color: #fff;
+  --headers: #000000;
+  --back-movie: #cecece;
+}
